@@ -1,0 +1,30 @@
+---
+title: "test"
+author: "yicong"
+date: "6/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+```{r cars}
+x<-c(3,4,5,6,7)
+
+mean(x)
+
+y<-c(4,5,6,7,8)
+
+add <-function(x,y){
+  
+  x+y
+}
+
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
