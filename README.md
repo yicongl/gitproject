@@ -1,4 +1,6 @@
-# gitproject
-new gitproject
+# This is the first git project
+## author by Yicong 
 
-This is the link for github 
+Anything here will be updated by time 
+
+
