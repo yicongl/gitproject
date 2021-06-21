@@ -1,9 +1,9 @@
-# This is the first git project
+# Basic tools for tidyverse in R 
 ## author by Yicong 
 
-Anything here will be updated by time 
+We'll update daily for new progress, it should include many basic functin on the tidyverse on handling basic dataframe. 
 
-# let's see if we can pull this file from git
+
 
 
 
